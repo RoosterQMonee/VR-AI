@@ -3,7 +3,6 @@ import json
 import requests
 import discord
 import server
-import threading
 
 API_URL = 'https://api-inference.huggingface.co/models/TheDiamondKing/'
 
