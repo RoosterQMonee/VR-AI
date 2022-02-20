@@ -34,7 +34,7 @@ Logs / Changes
 2/19/22 >
 
 * Updated tracking system
-* 
+
 * Assembled small team of idea people
 
 Banddoff - Luci - Kachuda - Shrek - SkyLiteBoi (Original AI) :0
