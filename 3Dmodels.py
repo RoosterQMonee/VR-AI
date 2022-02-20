@@ -2,7 +2,7 @@ import sys
 import os
 import pygame
 from pygame.locals import *
-from py3Dv1 import *
+from models.py3Dv1 import *
 
 pygame.init()
 # screen = pygame.display.set_mode(Size)
