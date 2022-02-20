@@ -1,6 +1,8 @@
 # Gorilla Tag AI
 
-### PyAI
+
+### a.k.a PyAI
+
 
 About
 ---
