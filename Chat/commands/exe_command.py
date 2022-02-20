@@ -8,7 +8,6 @@ from random import choice, randint
 import pyttsx3
 import time
 import webbrowser
-from tkinter import *
 from playsound import playsound
 
 # Commands
