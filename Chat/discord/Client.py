@@ -34,8 +34,6 @@ class MyClient(discord.Client):
     async def on_message(self, message):
         if message.author.id == self.user.id:
             return
-        
-        #if message.channel.id == 940027282188300360:
 
         payload = {'inputs': {'text': message.content}}
 
