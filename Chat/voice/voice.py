@@ -1,9 +1,10 @@
 import speech_recognition as sr
 from pydub import AudioSegment
-import os
 import sounddevice as sd
 from scipy.io.wavfile import write
 import pyttsx3
+import query
+import os
 
 engine = pyttsx3.init()
 fs = 44100
