@@ -3,6 +3,9 @@
 
 ### PyAI
 
+please help me
+
+im losing my sanity
 
 About
 ---
