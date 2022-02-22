@@ -10,7 +10,7 @@ im losing my sanity
 About
 ---
 
-This is an actual Gorilla Tag AI, unlike the other 9-year-olds that go into lobbies playing "Creepy" music while pretending to be this super scary hacker AI named "PBBV" or "Echo"
+This is an actual Gorilla Tag AI, unlike the other 9-year-olds that go into lobbies playing "Creepy" music while pretending to be this super scary hacker AI named "PBBV" or "Echo", this isn't going to be like the other "AI's". He's just going to walk around and use voice commands
 
 Why
 ---
