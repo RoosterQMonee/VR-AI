@@ -30,6 +30,10 @@ I'm gonna put some fancy analytics stuff here whenever I can gather data
 
 Logs / Changes
 ---
+2/21/22 >
+
+* Voice recognition!
+
 2/20/22 >
 
 * Reading Gorilla Tag source code
