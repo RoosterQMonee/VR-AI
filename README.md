@@ -30,6 +30,20 @@ I'm gonna put some fancy analytics stuff here whenever I can gather data
 
 Logs / Changes
 ---
+2/24/22 - idk yet >
+
+* Working on custom VR drivers
+
+2/23/22 >
+
+* Origional movement was bad so restarting
+
+2/22/22 >
+
+* LETS GOOOOOOO
+
+* Updated custom language
+
 2/21/22 >
 
 * Voice recognition!
