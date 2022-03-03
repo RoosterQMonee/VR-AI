@@ -30,7 +30,15 @@ I'm gonna put some fancy analytics stuff here whenever I can gather data
 
 Logs / Changes
 ---
-2/24/22 - idk yet >
+3/1/22 >
+
+* my sanity is gone
+
+* new team members
+
+* researched continues
+
+2/24/22 - 2/28/22 >
 
 * Working on custom VR drivers
 
