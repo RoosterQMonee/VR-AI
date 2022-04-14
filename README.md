@@ -7,6 +7,10 @@ please help me
 
 im losing my sanity
 
+Update:
+
+if you have any idea how to make controllable vr devices, please let me know, ive been struggling for 2 months now
+
 About
 ---
 
