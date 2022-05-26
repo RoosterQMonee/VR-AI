@@ -1,5 +1,9 @@
 # Gorilla Tag AI
 
+### Update
+
+its been 6 months now, my hard drive got corrupted and I lost ~1000 files that were never uploaded so still behind on development, i'm still trying though.
+if you have any ideas please put them in issues :D
 
 ### PyAI
 
