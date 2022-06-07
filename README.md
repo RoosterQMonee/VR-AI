@@ -1,11 +1,11 @@
 # Gorilla Tag AI
 
-|LGTMGradePython| |LGTMGradeC|
-
 ### Update
 
 
 I'm gonna take a break for a while, i've been sick a lot and am way behind on development so at the moment this is a reference for other developers to learn from my mistakes :)
+
+also i'm working on a new project that should come out soon!
 
 
 its been 6 months now, my hard drive got corrupted and I lost ~3000 files that were never uploaded so still behind on development, i'm still trying though.
