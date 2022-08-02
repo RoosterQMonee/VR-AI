@@ -4,6 +4,8 @@
 
 It's 4 am and i got the motivation to start working on this again :D
 
+btw there's going to be a lot of changes, I've gotten much better at language processing with ML, low level programming, and fancy speed tricks
+
 ### PyAI
 
 please help me
