@@ -8,6 +8,7 @@
 * Original programming language ( same as Neural Networks )
 * Engine ( also the same )
 * Sound / Text presets ( there seems no be a pattern appearing )
+* VR / XR ( Entire rewrite )
 
 ### Update
 
