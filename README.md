@@ -1,5 +1,12 @@
 # Gorilla Tag AI
 
+### General data
+
+#### Removed
+
+* Neural Networks ( bad, slow, pretty much useless )
+* Original programming language ( same as Neural Networks )
+
 ### Update
 
 It's 4 am and i got the motivation to start working on this again :D
