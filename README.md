@@ -8,9 +8,11 @@ btw there's going to be a lot of changes, I've gotten much better at language pr
 
 ### PyAI
 
-please help me
+#### For people that want to help:
 
-im losing my sanity
+what i am struggling with is making controller instances, along with a headset. my goal is to create these without actual hardware, and be able to control them from within this as an app and its programming language.
+
+this was made so there is no hardware needed other than the device with this project on it
 
 Update:
 
