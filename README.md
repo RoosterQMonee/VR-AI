@@ -6,6 +6,8 @@
 
 * Neural Networks ( bad, slow, pretty much useless )
 * Original programming language ( same as Neural Networks )
+* Engine ( also the same )
+* Sound / Text presets ( there seems no be a pattern appearing )
 
 ### Update
 
