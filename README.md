@@ -1,4 +1,4 @@
-# Gorilla Tag AI
+# ~~Gorilla Tag AI~~ Virtual Reality AI
 
 ### General data
 
