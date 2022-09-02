@@ -7,14 +7,14 @@
 * Neural Networks ( bad, slow, pretty much useless )
 * Original programming language ( same as Neural Networks )
 * Engine ( also the same )
-* Sound / Text presets ( there seems no be a pattern appearing )
+* Sound / Text presets ( there seems to be a pattern appearing )
 * VR / XR ( Entire rewrite )
 
 ### Update
 
-It's 4 am and i got the motivation to start working on this again :D
+i got lazy again lmao
 
-btw there's going to be a lot of changes, I've gotten much better at language processing with ML, low level programming, and fancy speed tricks
+i made a social media platform tho: https://gamebrain.tk
 
 ### PyAI
 
