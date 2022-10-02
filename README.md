@@ -12,9 +12,8 @@
 
 ### Update
 
-i got lazy again lmao
-
-i made a social media platform tho: https://gamebrain.tk
+New pc lesgo
+i might be able to continue working on this since i can actually run gtag on pc
 
 ### PyAI
 
