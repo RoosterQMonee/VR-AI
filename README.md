@@ -13,7 +13,12 @@
 ### Update
 
 New pc lesgo
+
 i might be able to continue working on this since i can actually run gtag on pc
+
+also i was SERIOUSLY overcomplicating this
+
+idk how it took me a whole year to realize that
 
 ### PyAI
 
