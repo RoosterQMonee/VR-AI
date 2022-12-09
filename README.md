@@ -1,38 +1,19 @@
-# ~~Gorilla Tag AI~~ Virtual Reality AI
-
-### General data
-
-#### Removed
-
-* Neural Networks ( bad, slow, pretty much useless )
-* Original programming language ( same as Neural Networks )
-* Engine ( also the same )
-* Sound / Text presets ( there seems to be a pattern appearing )
-* VR / XR ( Entire rewrite )
+# Virtual Reality AI
 
 ### Update
 
-New pc lesgo
+# WE HAVE MOVEMENT
 
-i might be able to continue working on this since i can actually run gtag on pc
+ITS TAKEN 2 YEARS
+BUT WE FINALLY HAVE MOVEMENT
 
-also i was SERIOUSLY overcomplicating this
-
-idk how it took me a whole year to realize that
-
-also no more devlog, too complex
+- unknown: usues non-controller trackers, still needs HMD
 
 ### PyAI
 
 #### For people that want to help:
 
-what i am struggling with is making controller instances, along with a headset. my goal is to create these without actual hardware, and be able to control them from within this as an app and its programming language.
-
-this was made so there is no hardware needed other than the device with this project on it
-
-Update:
-
-if you have any idea how to make controllable vr devices, please let me know, ive been struggling for almost a year now
+bro how do you make a HMD without a HMD
 
 About
 ---
