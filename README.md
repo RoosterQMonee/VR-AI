@@ -9,6 +9,22 @@ BUT WE FINALLY HAVE MOVEMENT
 
 - unknown: usues non-controller trackers, still needs HMD
 
+
+#### Removed
+
+- Voice AI
+> - it was absolutely AWFUL.
+
+
+#### Added
+
+- Better Voice AI :)
+> - Excessive Noise Detection ( has keywords like alexa )
+> - Realistic TTS
+> - Fast.
+> - Custom Modules!
+
+
 ### PyAI
 
 #### For people that want to help:
