@@ -27,27 +27,29 @@ BUT WE FINALLY HAVE MOVEMENT
 
 ### PyAI
 
+#### Installation
+
+
 #### For people that want to help:
 
 bro how do you make a HMD without a HMD
 
-About
----
 
-This is an actual Gorilla Tag AI, unlike the other 9-year-olds that go into lobbies playing "Creepy" music while pretending to be this super scary hacker AI named "PBBV" or "Echo", this isn't going to be like the other "AI's". He's just going to walk around and use voice commands
-
-Why
----
-I'm making this because it gets really annoying whenever people go into lobbies and start playing "Creepy" music while pretending to be this oh so scary hacker AI, like stated above; also I can actually make the first of something
 
 What this does
 ---
 Idk yet.
 
-I have some awesome people helping me come up with some ideas though :)
+
 
 Development
 ---
 I'm gonna put some fancy analytics stuff here whenever I can gather data
 
 :D
+
+
+## Credits
+
+* Ju1ce - https://github.com/ju1ce
+> Drivers + SteamVR Interaction
