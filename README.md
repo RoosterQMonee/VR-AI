@@ -29,6 +29,28 @@ BUT WE FINALLY HAVE MOVEMENT
 
 #### Installation
 
+###### Prequisites
+
+- Have SteamVR installed
+- Have Python installed
+- Have Git Installed (Optional)
+
+**Install**
+
+1) Open a command prompt
+  > Press `Win + R`, then type `cmd`
+2.1) If you have git, type `git clone https://github.com/RoosterQMonee/VR-AI.git`.
+2.2) If you dont have git, open `https://github.com/RoosterQMonee/VR-AI/archive/refs/heads/main.zip` in a new tab, then extract it.
+> You can close command prompt after this
+
+**Setup**
+
+1) Run `install_driver.exe` in the `Drivers` Directory
+2) Open a command prompt
+  > Press `Win + R`, then type `cmd`
+3) Run `python Tracking/Human/mediapipepose.py` in command prompt
+4) Set up tracking system, read instructions on window
+5) Calibrate.
 
 #### For people that want to help:
 
