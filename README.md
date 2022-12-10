@@ -22,7 +22,7 @@ BUT WE FINALLY HAVE MOVEMENT
 > - Excessive Noise Detection ( has keywords like alexa )
 > - Realistic TTS
 > - Fast.
-> - Custom Modules!
+> - Custom Commands!
 
 
 ### PyAI
