@@ -2,12 +2,11 @@
 
 ### Update
 
-# WE HAVE MOVEMENT
+i found a backup old files :)
 
-ITS TAKEN 2 YEARS
-BUT WE FINALLY HAVE MOVEMENT
+![image](https://user-images.githubusercontent.com/82356323/231613385-086d59d1-ff1b-428d-95a6-e38d3182329b.png)
 
-- unknown: usues non-controller trackers, still needs HMD
+the code is absolutely awful so im not adding it back.
 
 
 #### Removed
