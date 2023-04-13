@@ -9,7 +9,7 @@ i found a backup old files :)
 the code is absolutely awful so im not adding it back.
 
 
-### Disclaimer
+### Note:
 
 this is still in development ( and probably will be for a while, i started a few other projects ), and is not going to work just by downloading it.
 the code here is left mainly in case another programmer might need or want to use the modules i put into my project.
