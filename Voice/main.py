@@ -12,7 +12,7 @@ import os
 
 
 API_URL = "https://api-inference.huggingface.co/models/facebook/blenderbot-400M-distill"
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Token"}
 
 
 ai_names = ["pi", "pie", "program"]
