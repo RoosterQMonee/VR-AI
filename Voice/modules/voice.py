@@ -12,7 +12,7 @@ def voice_query(payload, url, head):
 
 def speak(text):
     url = "https://api-inference.huggingface.co/models/espnet/english_male_ryanspeech_fastspeech2"
-    head = {"Authorization": "Bearer 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"}
+    head = {"Authorization": "Token"}
         
     output = voice_query({
         "inputs": text
