@@ -1,13 +1,6 @@
 # Virtual Reality AI
 
-### Update
-
-i found a backup old files :)
-
-![image](https://user-images.githubusercontent.com/82356323/231613385-086d59d1-ff1b-428d-95a6-e38d3182329b.png)
-
-the code is absolutely awful so im not adding it back.
-
+## this doesn't work. it worked like 1 time
 
 ### Note:
 
